@@ -18,6 +18,24 @@ public class LinkedListUtilities {
         return head;
     }
 
+    public static SingleLinkedNode createListWithDuplicates(int nodeCount) {
+        if (nodeCount == 0) {
+            return null;
+        }
+
+        SingleLinkedNode head = null;
+
+        for (int i= nodeCount; i> 0; i--) {
+            head = new SingleLinkedNode(head, i);
+
+            if (i%2 == 0) {
+                head = new SingleLinkedNode(head, i);
+            }
+        }
+
+        return head;
+    }
+
     public static String StringifyList(SingleLinkedNode node) {
         SingleLinkedNode current = node;
         StringBuilder stringBuilder = new StringBuilder();

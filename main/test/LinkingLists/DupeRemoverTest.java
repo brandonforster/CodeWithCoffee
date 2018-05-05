@@ -1,20 +1,17 @@
 package LinkingLists;
 
 import node.SingleLinkedNode;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-// Write code to remove duplicates from an unsorted linked list
 public class DupeRemoverTest {
-
-    @BeforeEach
-    public void CreateValidLinkedList() {
-        SingleLinkedNode last = new SingleLinkedNode(null, 0);
-    }
-
     @Test
     public void DuplicatesRemovedSuccessfully() {
+        SingleLinkedNode listWithDupes = LinkedListUtilities.createListWithDuplicates(6);
 
+        String expected = "1\n2\n3\n4\n5\n6\n";
+        String actual = LinkedListUtilities.StringifyList(DupeRemover.removeDuplicates(listWithDupes));
+
+        Assertions.assertEquals(expected, actual);
     }
 }

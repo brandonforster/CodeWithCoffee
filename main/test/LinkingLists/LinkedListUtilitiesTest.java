@@ -27,4 +27,13 @@ public class LinkedListUtilitiesTest {
 
         Assertions.assertEquals(expected, actual);
     }
+
+    @Test
+    public void SuccessfullyBuildsLinkedListWithDuplicates() {
+        String expected = "1\n2\n2\n3\n4\n4\n5\n";
+
+        String actual = LinkedListUtilities.StringifyList(LinkedListUtilities.createListWithDuplicates(5));
+
+        Assertions.assertEquals(expected, actual);
+    }
 }

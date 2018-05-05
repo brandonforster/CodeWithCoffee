@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca16c47d-32fe-4744-a08b-d1aa0d7f01b5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/main/test/LinkingLists/LinkedListUtilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/test/LinkingLists/LinkedListUtilitiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/src/LinkingLists/DupeRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/src/LinkingLists/DupeRemover.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/test/LinkingLists/DupeRemoverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/test/LinkingLists/DupeRemoverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/test/LinkingLists/LinkedListUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/src/LinkingLists/LinkedListUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/test/LinkingLists/LinkedListUtilitiesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/test/LinkingLists/LinkedListUtilitiesTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,40 +39,41 @@
       <file leaf-file-name="DupeRemover.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/src/LinkingLists/DupeRemover.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="63" />
+            <state relative-caret-position="408">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DupeRemoverTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DupeRemoverTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main/test/LinkingLists/DupeRemoverTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="LinkedListUtilities.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/test/LinkingLists/LinkedListUtilities.java">
+        <entry file="file://$PROJECT_DIR$/main/src/LinkingLists/LinkedListUtilities.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+            <state relative-caret-position="87">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedListUtilitiesTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LinkedListUtilitiesTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/test/LinkingLists/LinkedListUtilitiesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="223">
+              <caret line="23" column="43" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,10 +101,10 @@
         <option value="$PROJECT_DIR$/main/test/panagram/PanagramTest.java" />
         <option value="$PROJECT_DIR$/main/src/panagram/Panagram.java" />
         <option value="$PROJECT_DIR$/main/src/node/SingleLinkedNode.java" />
+        <option value="$PROJECT_DIR$/main/test/LinkingLists/LinkedListUtilitiesTest.java" />
+        <option value="$PROJECT_DIR$/main/test/LinkingLists/LinkedListUtilities.java" />
         <option value="$PROJECT_DIR$/main/src/LinkingLists/DupeRemover.java" />
         <option value="$PROJECT_DIR$/main/test/LinkingLists/DupeRemoverTest.java" />
-        <option value="$PROJECT_DIR$/main/test/LinkingLists/LinkedListUtilities.java" />
-        <option value="$PROJECT_DIR$/main/test/LinkingLists/LinkedListUtilitiesTest.java" />
       </list>
     </option>
   </component>
@@ -193,6 +195,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/main/src/LinkingLists" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -211,9 +214,55 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LinkedListUtilitiesTest">
+  <component name="RunManager" selected="JUnit.DupeRemoverTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="DupeRemoverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWithCoffee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkingLists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="LinkingLists" />
+      <option name="MAIN_CLASS_NAME" value="LinkingLists.DupeRemoverTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="DupeRemoverTest.DuplicatesRemovedSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWithCoffee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkingLists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="LinkingLists" />
+      <option name="MAIN_CLASS_NAME" value="LinkingLists.DupeRemoverTest" />
+      <option name="METHOD_NAME" value="DuplicatesRemovedSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="LinkedListUtilitiesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeWithCoffee" />
@@ -261,42 +310,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="PanagramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LinkedListUtilitiesTest.SuccessfullyBuildsLinkedListWithDuplicates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeWithCoffee" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="panagram.*" />
+          <option name="PATTERN" value="LinkingLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="panagram" />
-      <option name="MAIN_CLASS_NAME" value="panagram.PanagramTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="PanagramTest.recognizesFullAlphabet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeWithCoffee" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="panagram.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="panagram" />
-      <option name="MAIN_CLASS_NAME" value="panagram.PanagramTest" />
-      <option name="METHOD_NAME" value="recognizesFullAlphabet" />
+      <option name="PACKAGE_NAME" value="LinkingLists" />
+      <option name="MAIN_CLASS_NAME" value="LinkingLists.LinkedListUtilitiesTest" />
+      <option name="METHOD_NAME" value="SuccessfullyBuildsLinkedListWithDuplicates" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -346,17 +372,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.PanagramTest" />
-      <item itemvalue="JUnit.PanagramTest.recognizesFullAlphabet" />
       <item itemvalue="JUnit.LinkedListUtilitiesTest" />
       <item itemvalue="JUnit.LinkedListUtilitiesTest.SuccessfullyBuildsLinkedList" />
+      <item itemvalue="JUnit.LinkedListUtilitiesTest.SuccessfullyBuildsLinkedListWithDuplicates" />
+      <item itemvalue="JUnit.DupeRemoverTest.DuplicatesRemovedSuccessfully" />
+      <item itemvalue="JUnit.DupeRemoverTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DupeRemoverTest" />
+        <item itemvalue="JUnit.DupeRemoverTest.DuplicatesRemovedSuccessfully" />
+        <item itemvalue="JUnit.LinkedListUtilitiesTest.SuccessfullyBuildsLinkedListWithDuplicates" />
         <item itemvalue="JUnit.LinkedListUtilitiesTest" />
         <item itemvalue="JUnit.LinkedListUtilitiesTest.SuccessfullyBuildsLinkedList" />
-        <item itemvalue="JUnit.PanagramTest" />
-        <item itemvalue="JUnit.PanagramTest.recognizesFullAlphabet" />
       </list>
     </recent_temporary>
   </component>
@@ -374,11 +402,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PanagramTest - 2018.04.28 at 09h 21m 13s.xml">
-      <configuration name="PanagramTest" configurationId="JUnit" />
+    <history-entry file="LinkedListUtilitiesTest - 2018.05.05 at 09h 57m 23s.xml">
+      <configuration name="LinkedListUtilitiesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PanagramTest_recognizesFullAlphabet - 2018.04.28 at 09h 23m 05s.xml">
-      <configuration name="PanagramTest.recognizesFullAlphabet" configurationId="JUnit" />
+    <history-entry file="LinkedListUtilitiesTest - 2018.05.05 at 09h 57m 35s.xml">
+      <configuration name="LinkedListUtilitiesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListUtilitiesTest_SuccessfullyBuildsLinkedList - 2018.05.05 at 09h 58m 10s.xml">
+      <configuration name="LinkedListUtilitiesTest.SuccessfullyBuildsLinkedList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListUtilitiesTest - 2018.05.05 at 09h 58m 23s.xml">
+      <configuration name="LinkedListUtilitiesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListUtilitiesTest - 2018.05.05 at 09h 58m 58s.xml">
+      <configuration name="LinkedListUtilitiesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListUtilitiesTest_SuccessfullyBuildsLinkedListWithDuplicates - 2018.05.05 at 10h 03m 10s.xml">
+      <configuration name="LinkedListUtilitiesTest.SuccessfullyBuildsLinkedListWithDuplicates" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DupeRemoverTest_DuplicatesRemovedSuccessfully - 2018.05.05 at 10h 17m 17s.xml">
+      <configuration name="DupeRemoverTest.DuplicatesRemovedSuccessfully" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DupeRemoverTest_DuplicatesRemovedSuccessfully - 2018.05.05 at 10h 17m 46s.xml">
+      <configuration name="DupeRemoverTest.DuplicatesRemovedSuccessfully" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DupeRemoverTest_DuplicatesRemovedSuccessfully - 2018.05.05 at 10h 20m 54s.xml">
+      <configuration name="DupeRemoverTest.DuplicatesRemovedSuccessfully" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DupeRemoverTest_DuplicatesRemovedSuccessfully - 2018.05.05 at 10h 26m 47s.xml">
+      <configuration name="DupeRemoverTest.DuplicatesRemovedSuccessfully" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -393,12 +445,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32672232" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32672232" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553311" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553311" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -427,13 +479,13 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/main/test/LinkingLists/LinkedListUtilitiesTest.java</url>
-          <line>6</line>
+          <url>file://$PROJECT_DIR$/main/src/LinkingLists/LinkedListUtilities.java</url>
+          <line>14</line>
           <properties />
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -491,36 +543,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/LinkingLists/DupeRemover.java">
+    <entry file="file://$PROJECT_DIR$/main/src/LinkingLists/LinkedListUtilities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/test/LinkingLists/DupeRemoverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/test/LinkingLists/LinkedListUtilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+        <state relative-caret-position="87">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main/test/LinkingLists/LinkedListUtilitiesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="223">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/LinkingLists/DupeRemover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/test/LinkingLists/DupeRemoverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
